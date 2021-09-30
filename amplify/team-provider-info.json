@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fsapp-dev-220230-authRole",
+      "UnauthRoleArn": "arn:aws:iam::026152918307:role/amplify-fsapp-dev-220230-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::026152918307:role/amplify-fsapp-dev-220230-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-fsapp-dev-220230-deployment",
+      "UnauthRoleName": "amplify-fsapp-dev-220230-unauthRole",
+      "StackName": "amplify-fsapp-dev-220230",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:026152918307:stack/amplify-fsapp-dev-220230/e4765440-06da-11ec-a8ff-02170b5af2ee",
+      "AmplifyAppId": "d32ldis7s98sxr"
+    },
+    "categories": {
+      "auth": {
+        "fsapp5ea5b5d9": {}
+      },
+      "function": {
+        "fsapp2a022adf": {
+          "deploymentBucketName": "amplify-fsapp-dev-220230-deployment",
+          "s3Key": "amplify-builds/fsapp2a022adf-51316c4c755661786b71-build.zip"
+        },
+        "graphqlresolver": {
+          "deploymentBucketName": "amplify-fsapp-dev-220230-deployment",
+          "s3Key": "amplify-builds/graphqlresolver-37394533337162363133-build.zip"
+        }
+      }
+    }
+  }
+}
